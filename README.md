@@ -7,7 +7,8 @@ set everything up:
 ```bash
 python -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+pip install --upgrade pip wheel setuptools
+pip install --requirement requirements.txt
 jupyter-lab
 ```
 
