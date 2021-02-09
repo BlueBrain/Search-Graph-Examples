@@ -1,0 +1,4 @@
+bbg_analytics[cord19kg] @ git+https://github.com/BlueBrain/BlueBrainGraph
+git+https://github.com/BlueBrain/BlueBrainSearch
+ipywidgets
+jupyterlab>=3.0.0
