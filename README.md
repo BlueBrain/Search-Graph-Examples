@@ -12,8 +12,7 @@ pip install --upgrade pip wheel setuptools
 pip install --requirement requirements.txt
 ```
 
-Next follow the instructions on the [Blue Brain Search project page](https://github
-.com/BlueBrain/BlueBrainSearch#getting-started) to setup the servers. In particular, it is important that the
+Next follow the instructions on the [Blue Brain Search project page](https://github.com/BlueBrain/BlueBrainSearch#getting-started) to setup the servers. In particular, it is important that the
 following environment variables are defined:
 
 ```bash
