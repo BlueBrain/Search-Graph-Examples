@@ -1,0 +1,29 @@
+Model:
+  name: RdfModel
+  origin: store
+  source: BlueBrainNexus
+  bucket: covid19-kg/schemas
+  context:
+    iri: https://bbp.epfl.ch/nexus/v1/resources/covid19-kg/schemas/context
+    bucket: covid19-kg/schemas
+
+Store:
+  name: BlueBrainNexus
+  endpoint: https://staging.nexus.ocp.bbp.epfl.ch/v1
+  bucket: covid19-kg/data
+  versioned_id_template: "{x.id}?rev={x._store_metadata._rev}"
+  file_resource_mapping: "/gpfs/bbp.cscs.ch/project/proj116/bbg/config/file-to-resource-mapping.hjson"
+
+Resolvers:
+  ontology:
+    - resolver: OntologyResolver
+      origin: store
+      source: BlueBrainNexus
+      targets:
+        - identifier: terms
+          bucket: covid19-kg/schemas
+      result_resource_mapping: "/gpfs/bbp.cscs.ch/project/proj116/bbg/config/file-to-resource-mapping.hjsons"
+
+Formatters:
+  identifier: "https://bbp.epfl.ch/nexus/v1/resources/covid19-kg/data/{}/{}"
+
