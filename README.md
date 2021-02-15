@@ -2,7 +2,7 @@
 
 ## How to Use
 
-To use the BBS_BBG_poc notebook, first make sure to have python version at least 3.6. To be able to install Blue
+To use the BBS_BBG_poc notebook, first make sure to have Python version at least 3.6. To be able to install Blue
 Brain Search package correctly, it is also import to set up MySQL (see [link](https://pypi.org/project/mysqlclient)) for instructions to install it depending on your OS).
 
 Run the following commands to set everything up:
