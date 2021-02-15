@@ -47,5 +47,5 @@ BBS_BBG_poc notebook and follow the instructions there.
 
 
 For more information about the Search and Graph components, please refer to the corresponding project pages:
-- Blue Brain Search: https://github.com/BlueBrain/BlueBrainSearch
+- Blue Brain Search: https://github.com/BlueBrain/Search
 - Blue Brain Graph: https://github.com/BlueBrain/BlueBrainGraph
