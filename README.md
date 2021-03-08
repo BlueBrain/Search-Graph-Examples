@@ -27,14 +27,7 @@ export SEARCH_ENGINE_URL=<value>
 export TEXT_MINING_URL=<value>
 ```
 
-where `<value>` has to be replaced by the correct value. For instance, in case of the setup described by the [Blue
-Brain Search - Getting Started](https://github.com/BlueBrain/Search#getting-started), we shall use
-
-```bash
-export DB_URL=$HOSTNAME:$DATABASE_PORT/$DATABASE_NAME
-export SEARCH_ENGINE_URL=http://$HOSTNAME:$SEARCH_PORT
-export TEXT_MINING_URL=http://$HOSTNAME:$MINING_PORT
-```
+where `<value>` has to be replaced by the correct value.
 
 Next, set the paths to the Nexus-forge configuration and the ontology linking data as the following environment variables:
 
