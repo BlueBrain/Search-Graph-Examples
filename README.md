@@ -29,6 +29,7 @@ export TEXT_MINING_URL=<value>
 
 where `<value>` has to be replaced by the correct value.
 
+
 Next, set the paths to the Nexus-forge configuration and the ontology linking data as the following environment variables:
 
 ```bash
