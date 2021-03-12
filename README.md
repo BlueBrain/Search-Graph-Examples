@@ -55,3 +55,8 @@ for the instructions).
 For more information about the Search and Graph components, please refer to the corresponding project pages:
 - Blue Brain Search: https://github.com/BlueBrain/Search
 - Blue Brain Graph: https://github.com/BlueBrain/BlueBrainGraph
+
+## Funding & Acknowledgment
+This project was supported by funding to the Blue Brain Project, a research center of the Ecole polytechnique fédérale de Lausanne, from the Swiss government's ETH Board of the Swiss Federal Institutes of Technology.
+
+COPYRIGHT 2021, Blue Brain Project/EPFL

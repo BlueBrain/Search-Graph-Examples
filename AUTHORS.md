@@ -1,0 +1,10 @@
+- [Francesco Casalegno](https://github.com/FrancescoCasalegno) @ Blue Brain Project, EPFL
+- [Emilie Delattre](https://github.com/EmilieDel) @ Blue Brain Project, EPFL
+- [Pierre-Alexandre Fonta](https://github.com/pafonta) @ Blue Brain Project, EPFL
+- [Anna-Kristin Kaufmann](https://github.com/annakristinkaufmann) @ Blue Brain Project, EPFL
+- [Jan Krepl](https://github.com/jankrepl) @ Blue Brain Project, EPFL
+- [Jonathan Lurie](https://github.com/jonathanlurie) @ Blue Brain Project, EPFL
+- [Eugenia Oshurko](https://github.com/eugeniashurko) @ Blue Brain Project, EPFL
+- [Stanislav Schmidt](https://github.com/Stannislav) @ Blue Brain Project, EPFL
+- [Mohameth François Sy](https://github.com/MFSY) @ Blue Brain Project, EPFL
+- [Anıl Tuncel](https://github.com/anilbey) @ Blue Brain Project, EPFL
