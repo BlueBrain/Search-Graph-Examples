@@ -1,4 +1,4 @@
 bbg_analytics[cord19kg] @ git+https://github.com/BlueBrain/BlueBrainGraph
-git+https://github.com/BlueBrain/Search@v0.0.10
+bluesearch==0.1.0
 ipywidgets
 jupyterlab>=3.0.0
