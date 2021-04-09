@@ -33,11 +33,10 @@ where `<value>` has to be replaced by the correct value.
 Next, set the paths to the Nexus-forge configuration and the ontology linking data as the following environment variables:
 
 ```bash
-export FORGE_CONFIG_FILE=<path_to_file>
 export ONTOLOGY_LINKING_DATA_FILE=<path_to_file>
 ```
 
-An example Nexus-forge configuration file is distributed with the repository (`config/forge-config.yml`), while an example of the ontology linking data can be found by the [link](https://github.com/BlueBrain/BlueBrainGraph/blob/master/cord19kg/examples/data/NCIT_ontology_linking_3000_papers.csv.zip) (linking data corresponds to the `csv` table obtained by decompressing the file provided by the link).
+An example of the ontology linking data can be found by the [link](https://github.com/BlueBrain/BlueBrainGraph/blob/master/cord19kg/examples/data/NCIT_ontology_linking_3000_papers.csv.zip) (linking data corresponds to the `csv` table obtained by decompressing the file provided by the link).
 
 
 Once everything is set up, you can run the notebook server.
@@ -53,8 +52,9 @@ for the instructions).
 
 
 For more information about the Search and Graph components, please refer to the corresponding project pages:
-- Blue Brain Search: https://github.com/BlueBrain/Search
-- Blue Brain Graph: https://github.com/BlueBrain/BlueBrainGraph
+- Blue Search: https://github.com/BlueBrain/Search
+- Blue Graph: https://github.com/BlueBrain/BlueGraph
+
 
 ## Funding & Acknowledgment
 This project was supported by funding to the Blue Brain Project, a research center of the Ecole polytechnique fédérale de Lausanne, from the Swiss government's ETH Board of the Swiss Federal Institutes of Technology.
